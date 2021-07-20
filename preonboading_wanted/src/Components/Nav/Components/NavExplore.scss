@@ -1,0 +1,46 @@
+.navExBoardWrap {
+  width: 100%;
+
+  @media screen and (max-width: 768px) {
+    display: none;
+  }
+
+  .navExBoard {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    height: 340px;
+    width: 88%;
+    margin: 0 auto;
+    list-style: none;
+  }
+
+  .navSection {
+    display: flex;
+    width: 60%;
+    margin-left: 5%;
+  }
+
+  .navExtraSectionWrap {
+    width: 12.5%;
+    height: 270px;
+    padding: 40px 0 0 0;
+    margin-right: 5%;
+    text-align: left;
+
+    .navExtraSection {
+      display: flex;
+      justify-content: space-between;
+      padding-right: 20px;
+      padding-bottom: 10px;
+      vertical-align: top;
+      line-height: 20px;
+      width: 100%;
+      color: #333;
+      font-size: 17px;
+      text-overflow: ellipsis;
+
+      cursor: pointer;
+    }
+  }
+}

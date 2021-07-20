@@ -1,0 +1,23 @@
+//
+.nav {
+  width: 100%;
+  padding-top: 10px;
+  background-color: white;
+
+  .wrapNav {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 88%;
+    margin: 0 auto;
+    height: 50px;
+
+    @media screen and (max-width: 768px) {
+      display: none;
+    }
+
+    .logo {
+      padding-left: 8%;
+    }
+  }
+}

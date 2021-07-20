@@ -1,0 +1,18 @@
+.navMain {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .navMenu {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 600;
+    padding: 15px;
+    color: #333333;
+    text-decoration: none;
+
+    &:hover {
+      border-bottom: 2px solid gainsboro;
+    }
+  }
+}

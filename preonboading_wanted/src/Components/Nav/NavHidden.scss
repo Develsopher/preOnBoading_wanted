@@ -1,0 +1,22 @@
+.hiddenNav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  margin-top: 1%;
+
+  @media screen and (min-width: 768px) {
+    display: none;
+  }
+
+  .hiddenNavBtnWrap {
+    display: flex;
+
+    .hiddenNavBtn {
+      padding: 14px 13px 19px 20px;
+      font-size: 14px;
+      line-height: 20px;
+      font-weight: 600;
+    }
+  }
+}

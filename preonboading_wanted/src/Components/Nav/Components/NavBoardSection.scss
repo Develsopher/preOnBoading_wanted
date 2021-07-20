@@ -1,0 +1,31 @@
+.boardList {
+  width: 16.5%;
+  height: 270px;
+  padding: 40px 20px 0 0;
+  text-align: left;
+
+  .upperListWrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    vertical-align: top;
+    line-height: 20px;
+    width: 100%;
+    color: #333;
+    font-size: 17px;
+    text-overflow: ellipsis;
+
+    cursor: pointer;
+  }
+
+  .listDetail {
+    padding: 5px 20px 5px 0;
+    width: 100%;
+    color: #999;
+    font-size: 13px;
+
+    cursor: pointer;
+  }
+}
