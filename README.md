@@ -32,7 +32,7 @@ State를 활용해 onMouseEnter 혹은 onMouseLeaver함수로 상태값을 True 
 
  3. 특정기준(width: 768px)을 바탕으로 Responsive Web 구현
  
- 화면의 가로 크기가 768px이하가 될때 hover로 인해 등장한 탐색보드가 사라지고 새로운 Nav(NavHiddend이라고 부르겠습니다)가 등장할 수 있도록 구현해보았습니다.
+ 화면의 가로 크기가 768px이하가 될때 hover로 인해 등장한 탐색보드가 사라지고 새로운 Nav(NavHiddend이라고 부르겠습니다)가 등장할 수 있도록 구현해보았습니다(media query)
  
  ![스크린샷 2021-07-20 오후 4 41 06](https://user-images.githubusercontent.com/78126381/126281521-5847c1a9-ba10-41f5-8d10-dd9e87566393.png)
 
