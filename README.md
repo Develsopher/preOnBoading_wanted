@@ -34,7 +34,7 @@ State를 활용해 onMouseEnter 혹은 onMouseLeaver함수로 상태값을 True 
  
  화면의 가로 크기가 768px이하가 될때 hover로 인해 등장한 탐색보드가 사라지고 새로운 Nav(NavHiddend이라고 부르겠습니다)가 등장할 수 있도록 구현해보았습니다.
  
- ![스크린샷 2021-07-20 오후 4 39 30]
- (https://user-images.githubusercontent.com/78126381/126281326-fa6145eb-9819-4e65-afb8-bb5ddf1ca6e2.png)
+ ![스크린샷 2021-07-20 오후 4 41 06](https://user-images.githubusercontent.com/78126381/126281521-5847c1a9-ba10-41f5-8d10-dd9e87566393.png)
+
 <img width="743" alt="스크린샷 2021-07-20 오후 4 39 54" src="https://user-images.githubusercontent.com/78126381/126281378-ae8c1a22-8732-4a99-a130-40ce950449f2.png">
 
