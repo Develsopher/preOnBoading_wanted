@@ -18,8 +18,6 @@ React(Javascript), Scss
 
 1. Wanted GNB 구현하기
 <img width="1112" alt="스크린샷 2021-07-20 오후 4 29 11" src="https://user-images.githubusercontent.com/78126381/126280128-d60e87a5-eaad-46ff-a578-1c71f62ecf29.png">
-![스크린샷 2021-07-20 오후 4 32 10](https://user-images.githubusercontent.com/78126381/126280332-8596f4c5-9f44-4de6-9bda-0e66538fcbc5.png)
-![스크린샷 2021-07-20 오후 4 32 30](https://user-images.githubusercontent.com/78126381/126280381-b8372fa2-c7ed-4ff9-9129-84524370a80e.png)
 
 Nav바가 Scroll을 내릴 시, 윗 상단에 고정되는 원래 사이트의 특성을 그대로 구현하고자 Main페이지를 간략히 만들고 Nav Component 만들었습니다.
 
